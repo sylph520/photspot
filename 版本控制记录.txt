@@ -1,0 +1,6 @@
+#说明，本文件用与记录该文件目录下所有的操作记录(任何此目录下更改历史均要求记录在该文件中)  被更改的旧版本文件放在目录Version_ctrl下 
+
+序号  	操作(操作描述)                                                                          	操作人          操作时间
+1     	替换searchpage.php文件(原searchpage.php文件被命名为searpage_old_wanpeng.php)            	yangyang        2014.3.18
+2     	专利热点可视化bug修复(修改内容在js/bubble.js文件中)										  	yangyang        2014.3.21	
+
